@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="16.675326">
+<testcase classname="Login into Guru99 bank Manager application" name="Login into application" time="16.675326">
+<system-out><![CDATA[Given User is on Login Page.................................................passed
+When Title of the page is Guru Bank.........................................passed
+Then User enters the valid UserName "mngr161534" and Password "UvAtYza" and  click on Login button.passed
+Then User should login into the application and should navigate to Homepage after Login.passed
+]]></system-out>
+</testcase>
+</testsuite>
